@@ -1,5 +1,5 @@
 # Otimizacao_de_Hiperparametros
-thiagocarmonunes.com.br
+https://thiagocarmonunes.com.br
 
 Na estreia publiquei uma série falando sobre otimização de hiperparâmetros. Abordei a teoria, dicas práticas e códigos para implementação. Quem tiver interesse no tema, ligado a modelagem estatística, fique a vontade para dar uma lida/criticada (podem criticar sem medo kkk).
 
@@ -20,3 +20,6 @@ https://lnkd.in/e5q4Xbb
 HandsOn - XGB:
 
 https://lnkd.in/eyGyCEJ
+
+
+Thiago do Carmo Nunes
